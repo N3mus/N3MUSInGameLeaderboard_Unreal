@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "N3MUS Tournament Plugin",
+  "Description": "A plugin to fetch and display N3MUS tournament data.",
+  "Category": "Gameplay",
+  "Modules": [
+    {
+      "Name": "N3MUSTournament",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
